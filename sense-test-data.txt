@@ -1,0 +1,34 @@
+POST /traffic/light
+{
+  "number": 1
+}
+
+POST /traffic/light
+{
+  "number": 2
+}
+
+POST /traffic/light
+{
+  "number": 3
+}
+
+POST /traffic/light
+{
+  "number": 4
+}
+
+POST /traffic/light
+{
+  "number": 5
+}
+
+POST /traffic/light
+{
+  "number": 6
+}
+
+POST /traffic/light
+{
+  "number": 7
+}

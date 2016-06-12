@@ -1,4 +1,4 @@
-# Kibana - Traffic Light Visualization
+# Kibana - Traffic Light Visualisation
 
 ## Considerations
 This has only been tested on the following versions:
@@ -31,9 +31,9 @@ Once you have selected your aggregation type, you can select the boundaries for 
 
 ![settings](https://i.imgsafe.org/d5f852c75a.png)
 
-Traffic Light Width - Allows you to resize the visualisation to fit your dashboard.
-Red Threshold - Anything below this number will set the Traffic Light Red
-Green Threshold - Anything Above this will set the traffic light Green
+- Traffic Light Width - Allows you to resize the visualisation to fit your dashboard.
+- Red Threshold - Anything below this number will set the Traffic Light Red
+- Green Threshold - Anything Above this will set the traffic light Green
 
 #### So where is Yellow or Amber?
 You don't need a yellow or amber as anything between Red and Green falls into this category.

@@ -23,13 +23,13 @@ If you load the data in the test-data.txt which is formatted to work in Sense, y
 
 If you go to the visualisation tab and select Traffic Light:
 
-![visulisation tab](https://i.imgsafe.org/d5ec37f544.jpg)
+![visulisation tab](https://cloud.githubusercontent.com/assets/16757754/17933612/b079d7ae-6a0c-11e6-9547-b6216932e09f.png)
 
 You will then need to select the traffic index. Once that is done, you will be taken to the default visualisation tab. Here you can choose how you want to aggregate your data, whether that be Sum, Avg, Max, Min, etc...
 
 Once you have selected your aggregation type, you can select the boundaries for your traffic lights in the Options tab:
 
-![settings](https://i.imgsafe.org/d5f852c75a.png)
+![settings](https://cloud.githubusercontent.com/assets/16757754/17933626/b6c854b4-6a0c-11e6-966a-33ef497ce073.png)
 
 - Traffic Light Width - Allows you to resize the visualisation to fit your dashboard.
 - Red Threshold - Anything below this number will set the Traffic Light Red

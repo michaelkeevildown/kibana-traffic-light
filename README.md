@@ -5,7 +5,7 @@ This has only been tested on the following versions:
 
 - Elasticsearch 2.3.3
 - Kibana 4.4.2
-
+ 
 ## Install Instructions:
 
 To install this visualisation into Kibana run the below command:

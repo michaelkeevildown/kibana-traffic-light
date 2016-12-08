@@ -10,7 +10,7 @@ This has only been tested on the following versions:
 
 To install this visualisation into Kibana run the below command:
 
-`bin/kibana plugin --install traffic-lights -u https://github.com/michaelkeevildown/kibana-traffic-light/raw/master/traffic_light_vis.zip`
+`bin/kibana plugin --install traffic-lights -u https://github.com/michaelkeevildown/kibana-traffic-light/archive/v5.0.2.zip`
 
 ## How does it work?
 

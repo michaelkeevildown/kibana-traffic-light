@@ -1,6 +1,6 @@
 {
   "name": "traffic_light_vis",
-  "version": "1.0.1",
+  "version": "5.0.2",
   "kibana": {
     "version": "5.0.2"
   },

@@ -1,8 +1,8 @@
 {
   "name": "traffic_light_vis",
-  "version": "5.1.1",
+  "version": "5.0.1",
   "kibana": {
-    "version": "5.1.1"
+    "version": "5.0.1"
   },
   "description": "Traffic light visualization plugin",
   "scripts": {
